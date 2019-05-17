@@ -1,0 +1,22 @@
+Task-1:
+============================
+Kali linux installation:
+============================
+For the details of installing kali linux please follw my youtube video: https://www.youtube.com/watch?v=Gr0kZW0nWaM&t=838s 
+
+Task-2:
+====================
+Update your system:
+====================
+- gedit /etc/apt/sources.list
+- add repository for old and new both.
+- sudo apt update
+- apt list --upgradable
+- sudo apt upgrade
+- sudo apt dist-upgrade
+- sudo apt autoremove
+
+Task-3
+=====================
+Install vamware tools
+=====================
